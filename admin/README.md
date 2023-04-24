@@ -1,0 +1,1 @@
+**chocoUpdateAllIPs.vbs** - Remotely update Chocolately packages on multiple computers
